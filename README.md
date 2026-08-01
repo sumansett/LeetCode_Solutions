@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumansett/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumansett/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sumansett/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumansett/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumansett/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumansett/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansett/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sumansett/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sumansett/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sumansett/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
