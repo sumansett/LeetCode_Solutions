@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumansett/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumansett/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sumansett/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumansett/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sumansett/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sumansett/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sumansett/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumansett/LeetCode_Solutions/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sumansett/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sumansett/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sumansett/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sumansett/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
