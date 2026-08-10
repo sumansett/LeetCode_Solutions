@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumansett/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumansett/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansett/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansett/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumansett/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sumansett/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sumansett/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sumansett/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sumansett/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansett/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sumansett/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -90,8 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sumansett/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansett/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sumansett/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
